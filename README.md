@@ -1,26 +1,12 @@
-# 🧩 Solveur de Sudoku (Obsolète)
+<h1 align="center">SudokuSolver</h1>
 
-## 📜 Description
+<div align="center">
+    <p>Allows users to enter a Sudoku grid and automatically obtain its solution</p>
+    <img src="https://img.shields.io/badge/Status-Archived%20%2F%20Unmaintained-critical?style=for-the-badge">
+</div>
 
-**Solveur de Sudoku** était une application développée en Python utilisant Tkinter pour permettre aux utilisateurs de saisir une grille de Sudoku et d'obtenir sa solution automatiquement. Cependant, ce projet n'est plus fonctionnel et ne sera pas mis à jour.
+<br>
 
-## ⚡ Fonctionnalités (Obsolètes)
-
-- Interface utilisateur interactive avec Tkinter.
-- Résolution automatique des grilles de Sudoku.
-- Vérification des mouvements valides avant résolution.
-- Option pour effacer la grille et recommencer.
-
-## 🚀 Installation (Non Recommandée)
-
-1. Téléchargez les fichiers du projet.
-2. Exécutez le script avec la commande :
-   ```
-   python main.py
-   ```
-
-⚠️ **Ce projet ne fonctionne plus et ne sera pas maintenu.**
-
-## 📜 Licence
-
-Ce projet est sous licence MIT. Vous êtes libre de le modifier et de le redistribuer.
+> [!WARNING]
+> **This repository is archived and no longer maintained.**  
+> It is kept for reference purposes only. No further updates, bug fixes, or support will be provided. Feel free to fork.
